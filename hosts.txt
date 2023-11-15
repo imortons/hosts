@@ -37,7 +37,7 @@
 222.219.28.17 hm.imorton.cn
 222.219.28.17 alist.imorton.cn
 222.219.28.17 nginx.imorton.cn
-
+222.219.28.17 immich.imorton.cn
 
 
 222.219.28.17 gx521.top
@@ -78,3 +78,4 @@
 222.219.28.17 hm.gx521.top
 222.219.28.17 alist.gx521.top
 222.219.28.17 nginx.gx521.top
+222.219.28.17 immich.gx521.top
