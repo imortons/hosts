@@ -1,5 +1,3 @@
-222.219.28.17 qq.com
-222.219.28.17 test6.imorton.cn
 222.219.28.17 imorton.cn
 222.219.28.17 ddnsdd.imorton.cn
 222.219.28.17 qb.imorton.cn
