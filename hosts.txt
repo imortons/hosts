@@ -1,4 +1,5 @@
 222.219.28.17 imorton.cn
+222.219.28.17 xui.imorton.cn
 222.219.28.17 ddnsdd.imorton.cn
 222.219.28.17 qb.imorton.cn
 222.219.28.17 nt.imorton.cn
